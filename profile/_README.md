@@ -1,3 +1,3 @@
 Hello
 
-[](banner.jpeg)
+![](banner.jpeg)
